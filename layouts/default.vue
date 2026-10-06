@@ -8,6 +8,7 @@ const nav = [
   { to: '/', label: '状态看板', icon: 'i-heroicons-chart-bar-square' },
   { to: '/permits', label: '作业许可', icon: 'i-heroicons-clipboard-document-check' },
   { to: '/devices', label: '隔离与锁定', icon: 'i-heroicons-lock-closed' },
+  { to: '/batches', label: '检修批次', icon: 'i-heroicons-queue-list' },
   { to: '/audit', label: '审计记录', icon: 'i-heroicons-clock' },
 ]
 </script>
